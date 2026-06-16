@@ -21,11 +21,15 @@ AI-powered career guidance platform with React, TypeScript, skill-gap analysis, 
 
 Repository: [-Ai-Carrer-Platform-](https://github.com/jayantmehta712/-Ai-Carrer-Platform-)
 
+Live Demo: [Career AI Platform](https://jayantmehta712.github.io/-Ai-Carrer-Platform-/)
+
 ### Jayant Portfolio
 
 Personal portfolio website built with HTML, CSS, and JavaScript to showcase projects, resume, skills, and contact information.
 
 Repository: [jayant-portfolio](https://github.com/jayantmehta712/jayant-portfolio)
+
+Live Demo: [Jayant Portfolio](https://jayantmehta712.github.io/jayant-portfolio/)
 
 ## Machine Learning Projects
 
