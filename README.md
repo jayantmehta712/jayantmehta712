@@ -1,63 +1,55 @@
-# Hi, I'm jayantmehta712
+# Hi, I'm Jayant Mehta
 
-I build practical full-stack web applications with clean user flows, working APIs, and simple deployment paths.
+I build practical full-stack, data analytics, and machine learning projects with clean user flows, working APIs, and clear documentation.
 
-## Featured Project
+## Featured Projects
 
-### PathAI - AI Career Guidance & Skill Roadmap Platform
+### Placement Analytics System
 
-PathAI is a full-stack career guidance platform that combines a React frontend with a Node.js and Express backend. It helps users analyze career profiles, generate learning roadmaps, chat with an AI career advisor, and assess skills from resume-style text.
+Full-stack campus placement analytics dashboard built with FastAPI, JavaScript, Chart.js, SQLite, and scikit-learn.
 
-**Highlights**
+- Interactive dashboard for placement KPIs, branch trends, salary distribution, company hiring, and top offers.
+- Candidate placement probability scorer using a trained machine learning model.
+- REST API endpoints for metadata, dashboard analytics, health checks, and prediction.
+- SQLite schema, reusable SQL queries, Power BI guide, and optional Streamlit dashboard.
 
-- Career analysis with personalized strengths, gaps, and role recommendations
-- Skill roadmap generation with phased learning plans
-- AI chat advisor for career questions
-- Skill assessment from user-provided resume or profile text
-- Combined production app served from one backend port
-- Demo mode support when no AI API key is configured
+Repository: [placement-analytics-system](https://github.com/jayantmehta712/placement-analytics-system)
 
-**Tech Stack**
+### AI Career Platform
 
-| Layer | Technology |
-| --- | --- |
-| Frontend | React 18, React Router, Framer Motion |
-| Backend | Node.js, Express.js |
-| API Client | Axios |
-| AI Integration | Anthropic Claude |
-| Styling | Custom CSS |
+AI-powered career guidance platform with React, TypeScript, skill-gap analysis, roadmap features, and modern frontend structure.
 
-## What I'm Working On
+Repository: [-Ai-Carrer-Platform-](https://github.com/jayantmehta712/-Ai-Carrer-Platform-)
 
-- Full-stack JavaScript projects
-- Career and education technology tools
-- Clean frontend interfaces connected to real backend APIs
-- Making projects easy to run, test, and deploy
+### Jayant Portfolio
+
+Personal portfolio website built with HTML, CSS, and JavaScript to showcase projects, resume, skills, and contact information.
+
+Repository: [jayant-portfolio](https://github.com/jayantmehta712/jayant-portfolio)
+
+## Machine Learning Projects
+
+- [Credit Card Fraud Detection](https://github.com/jayantmehta712/credit_card_fraud_detection-using-py-and-ml.py) - Python ML classification project focused on imbalanced fraud detection.
+- [Customer Churn Prediction](https://github.com/jayantmehta712/customer_churn_prediction-by-jay-using-ml-and-py.py) - Python ML project for predicting customer churn using preprocessing and classifiers.
+
+## Other Projects
+
+- [Bakery Management System](https://github.com/jayantmehta712/bakery-management-) - Python and SQLite management system with admin and billing workflows.
+- [Digital Diary with Password](https://github.com/jayantmehta712/digital-dairy-with-password) - Password-protected local diary application built in C.
 
 ## Skills
 
-- React
-- Node.js
-- Express.js
-- REST APIs
-- JavaScript
-- HTML and CSS
-- Full-stack project setup
-- Git and GitHub
+- Python, JavaScript, TypeScript, HTML, CSS
+- FastAPI, REST APIs, React, Node.js, Express.js
+- SQL, SQLite, Pandas, scikit-learn
+- Data analytics dashboards, machine learning workflows, Git, GitHub
 
-## Project Run Example
+## What I Like Building
 
-```bash
-npm install
-npm run install:all
-npm start
-```
-
-Then open:
-
-```text
-http://localhost:5000
-```
+- Full-stack applications with real backend APIs.
+- Analytics dashboards that turn raw data into clear insights.
+- Machine learning projects with clean preprocessing, evaluation, and inference.
+- Portfolio-ready repositories with useful README files and simple run instructions.
 
 ## Connect
 
